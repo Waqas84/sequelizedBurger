@@ -1,0 +1,36 @@
+body {
+background: background: #ffb347;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffcc33, #ffb347);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffcc33, #ffb347); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.jumbotron {
+	
+text-align: center;
+background: #FFA17F;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #00223E, #FFA17F);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #00223E, #FFA17F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#title {
+color: #FFFFFF;
+}
+
+#new-style {
+text-align: center;
+}
+
+#list1 {
+font-size: 25px;
+font-weight: bold;
+}
+
+#list2 {
+font-size: 20px;
+font-weight: bold;
+}
+
+.btn {
+	font-style: italic;;
+}
